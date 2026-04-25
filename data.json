@@ -1,0 +1,122 @@
+[
+    {
+        "category": "product",
+        "name": "A Light in the Attic",
+        "price": "\u00a351.77",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "product",
+        "name": "Tipping the Velvet",
+        "price": "\u00a353.74",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "product",
+        "name": "Soumission",
+        "price": "\u00a350.10",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "product",
+        "name": "Sharp Objects",
+        "price": "\u00a347.82",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "product",
+        "name": "Sapiens: A Brief History of Humankind",
+        "price": "\u00a354.23",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "product",
+        "name": "The Requiem Red",
+        "price": "\u00a322.65",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "product",
+        "name": "The Dirty Little Secrets of Getting Your Dream Job",
+        "price": "\u00a333.34",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "product",
+        "name": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "price": "\u00a317.93",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "product",
+        "name": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "price": "\u00a322.60",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "product",
+        "name": "The Black Maria",
+        "price": "\u00a352.15",
+        "rating": "N/A",
+        "link": "https://books.toscrape.com/"
+    },
+    {
+        "category": "news",
+        "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+        "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/"
+    },
+    {
+        "category": "news",
+        "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
+        "link": "https://github.com/niri-wm/niri/releases/tag/v26.04"
+    },
+    {
+        "category": "news",
+        "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+        "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/"
+    },
+    {
+        "category": "news",
+        "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+        "link": "https://github.com/MartinGalway/C64_music"
+    },
+    {
+        "category": "news",
+        "title": "Google plans to invest up to $40B in Anthropic",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic"
+    },
+    {
+        "category": "news",
+        "title": "GPT 5.5 biosafety bounty",
+        "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/"
+    },
+    {
+        "category": "news",
+        "title": "The Free Universal Construction Kit",
+        "link": "https://fffff.at/free-universal-construction-kit/"
+    },
+    {
+        "category": "news",
+        "title": "Insights into firewood use by early Middle Pleistocene hominins",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0277379126001824"
+    },
+    {
+        "category": "news",
+        "title": "What's Missing in the 'Agentic' Story",
+        "link": "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains"
+    },
+    {
+        "category": "news",
+        "title": "Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes",
+        "link": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html"
+    }
+]
